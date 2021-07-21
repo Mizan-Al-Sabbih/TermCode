@@ -1,0 +1,2 @@
+/data/data/com.termux/files/home/TermCode/Sources/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/TermCode/Sources/CMakeFiles/edit_cache.dir
